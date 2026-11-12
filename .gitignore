@@ -1,0 +1,13 @@
+# Vom Skript erzeugte Ausgaben (persoenlich, nie veroeffentlichen)
+inserate/
+verlauf.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
